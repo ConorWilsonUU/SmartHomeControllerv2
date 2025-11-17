@@ -48,6 +48,6 @@ namespace SmartHomeController
             base.GetStatus();
             Console.WriteLine($"Brightness: {Brightness}%, Colour: {Colour}");
         }
-
+         
     }
 }
